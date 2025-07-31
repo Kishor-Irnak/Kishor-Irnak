@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishor-irnak&label=Profile%20views&color=0e75b6&style=flat" alt="kishor-irnak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishor-irnak" alt="kishor-irnak" /></a> </p>
-
 - 🔭 I’m currently working on [Problem Solving Community Platform](#)
 
 - 🌱 I’m currently learning **DSA in Java**
